@@ -3,3 +3,10 @@ Hello everyone this is a git tutorial.
 Some new changes added.
 
 One more line added to file.
+One more line added.[1;5D[1;5D[1;5D[1;5D[1;5D[1;5D[1;5D[1;5D[1;5D[1;5D[1;5D[1;5D[1;5D[1;5D[1;5D[1;5D[1;5D[1;5D[1;5D[1;5D
+[A
+[A
+
+
+Garbage values.
+
