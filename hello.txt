@@ -1,2 +1,5 @@
-Hello everyone this is a git tutorial.New Line Appended.
+Hello everyone this is a git tutorial.
+
 Some new changes added.
+
+One more line added to file.
